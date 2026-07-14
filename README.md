@@ -1,4 +1,4 @@
-# DevOps Training Portal - Batch 009
+# DevOps Training Portal - Batch 1
 
 
 A beautiful Java web application for Jenkins, Docker, Kubernetes, and Terraform training by Kastro Kiran V.
